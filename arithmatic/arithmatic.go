@@ -15,7 +15,6 @@ func main() {
 	var flotNum float64 = 3.5;
 
 	sum1 := intNum + int(flotNum);
-
 	fmt.Println("Sum",sum1);
 
 }
